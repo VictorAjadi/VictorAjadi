@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VictorAjadi
 - 👀 I have been coding in JavaScript for primarily over 2years
 - 🌱 I’m currently learning data visualization in react and Postgresql 
-- 📫 You can follow me on LinkedIn https://linkedin/in/zemon-dev
+- 📫 You can follow me on LinkedIn https://www.linkedin.com/in/zemon-dev
 
 <!---
 VictorAjadi/VictorAjadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
