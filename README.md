@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorAjadi
 - 👀 I have been coding in JavaScript for primarily over 2years
-- 🌱 I’m currently learning data visualization in react and Postgresql
+- 🌱 I’m currently learning react native in react and data analytics
 - I'm currently on a look out for a role in MERN stack web development and collaboration on projects 
 - 📫 You can follow me on LinkedIn https://www.linkedin.com/in/zemon-dev
 
