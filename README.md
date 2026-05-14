@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VictorAjadi
-- 👀 I have been coding in JavaScript for primarily over 2years
-- 🌱 I’m currently learning Electron JS and Devops
-- I'm currently on a look out for a role in MERN stack web development and collaboration on projects 
+- 👀 I have been coding in JavaScript, Python and C for primarily over 3years
+- 🌱 I’m currently learning System Design and Devops
+- I'm currently on a look out for a role in Software development and collaboration on projects 
 - 📫 You can follow me on LinkedIn https://www.linkedin.com/in/zemon-dev
 
 <!---
